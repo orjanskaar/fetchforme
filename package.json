@@ -1,6 +1,6 @@
 {
-  "name": "fetchforme",
-  "version": "1.0.0",
+  "name": "fetchforus",
+  "version": "1.0.1",
   "description": "A module to ease fetching",
   "main": "index.js",
   "scripts": {
