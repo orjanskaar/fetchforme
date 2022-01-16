@@ -1,0 +1,19 @@
+{
+  "name": "fetchforme",
+  "version": "1.0.0",
+  "description": "A module to ease fetching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orjanskaar/fetchforme.git"
+  },
+  "author": "Ørjan Skår",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orjanskaar/fetchforme/issues"
+  },
+  "homepage": "https://github.com/orjanskaar/fetchforme#readme"
+}
